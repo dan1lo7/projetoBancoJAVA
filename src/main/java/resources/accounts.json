@@ -1,0 +1,42 @@
+[
+  {
+    "balance": 3300.0,
+    "password": "senha123",
+    "email": "user1@example.com",
+    "client": {
+      "name": "John Doe",
+      "age": 30,
+      "cpf": "12345678901"
+    }
+  },
+  {
+    "balance": 2000.0,
+    "password": "senha456",
+    "email": "user2@example.com",
+    "client": {
+      "name": "Jane Doe",
+      "age": 25,
+      "cpf": "10987654321"
+    }
+  },
+  {
+    "balance": 4310.0,
+    "password": "123",
+    "email": "antenor@email.com",
+    "client": {
+      "name": "antenor",
+      "age": 23,
+      "cpf": "12345678945"
+    }
+  },
+  {
+    "balance": 3390.0,
+    "password": "123",
+    "email": "danilo@email.com",
+    "client": {
+      "name": "Danilo",
+      "age": 20,
+      "cpf": "147.979.286-11"
+    }
+  }
+]
